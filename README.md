@@ -27,11 +27,11 @@ Once the Run Analysis button is clicked, a window pops up asking “What year wo
 
 After the year is typed, a table pops-up stating the amount of time it takes to run the code. *(See Figure 3: Time Code Ran for 2017 and Figure 4: Time Code Ran for 2018)*. In this instance, the 2017 data was analyzed in 0.1484375 seconds and the 2018 in .2109375 seconds.
 
-**Figure 3: Time Code Ran for 2017**
+**Figure 3: Time Code Ran for Year 2017**
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/78306719/109703448-1a650300-7b5b-11eb-92ff-93c2a8191a3a.PNG)
 
-**Figure 4: Time Code Ran for 2018**
+**Figure 4: Time Code Ran for Year 2018**
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/78306719/109703698-63b55280-7b5b-11eb-8fba-841eebe16e88.PNG)
 
