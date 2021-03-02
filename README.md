@@ -15,23 +15,23 @@ The purpose of this project is to create a workbook to expand the client’s ana
 
 The workbook begins with a view of two buttons; one to run the analysis and the other to clear the sheet. *(See Figure 1: Buttons)*.
 
-**Figure 1: Buttons**
+**Figure 1. Buttons**
 
 ![VBA_Challenge_buttons](https://user-images.githubusercontent.com/78306719/109703053-a591c900-7b5a-11eb-8bf0-60f4a5dc3197.PNG)
 
-Once the Run Analysis button is clicked, a window pops up asking “What year would you like to run the analysis on? *(See Figure 2: Question Pop-up)*.
+Once the *Run Analysis* button is clicked, a window pops up asking “What year would you like to run the analysis on? *(See Figure 2: Question Pop-up)*.
 
-**Figure 2: Question Pop-up**
+**Figure 2. Question Pop-up**
 
 ![VBA_Challenge_question](https://user-images.githubusercontent.com/78306719/109703246-da9e1b80-7b5a-11eb-9ece-0d0cea1b9b82.PNG)
 
-After the year is typed, a table pops-up stating the amount of time it takes to run the code. *(See Figure 3: Time Code Ran for 2017 and Figure 4: Time Code Ran for 2018)*. In this instance, the 2017 data was analyzed in 0.1484375 seconds and the 2018 in .2109375 seconds.
+After the year is typed, a window pops up stating the amount of time it takes to run the code. In this instance, the 2017 data was analyzed in 0.1484375 seconds and the 2018 in 0.2109375 seconds *(See Figure 3: Time Code Ran for Year 2017 and Figure 4: Time Code Ran for Year 2018)*.
 
-**Figure 3: Time Code Ran for Year 2017**
+**Figure 3. Time Code Ran for Year 2017**
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/78306719/109703448-1a650300-7b5b-11eb-92ff-93c2a8191a3a.PNG)
 
-**Figure 4: Time Code Ran for Year 2018**
+**Figure 4. Time Code Ran for Year 2018**
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/78306719/109703698-63b55280-7b5b-11eb-8fba-841eebe16e88.PNG)
 
@@ -39,7 +39,7 @@ After the year is typed, a table pops-up stating the amount of time it takes to 
 
 The VBA coding was created to analyze DQ but it was refactored to analyze a dozen stocks. Although the coding looks similar, there are minor changes to expand the analysis. For instance, the refactored code has a tickerIndex set to zero (tickerIndex = 0). This part of the code was not executed with the DQ analysis code *(See Figure 5: Compare Workbook Codes)*.
 
-**Figure 5: Compare Workbook Codes**
+**Figure 5. Compare Workbook Codes**
 
 ![VBA_Challenge_Copare codes](https://user-images.githubusercontent.com/78306719/109703848-91020080-7b5b-11eb-84f2-05d453e03924.PNG)
 
@@ -47,11 +47,11 @@ The VBA coding was created to analyze DQ but it was refactored to analyze a doze
 
 The analysis shows the return investment percentage for most stocks was high in 2017 (shown as green) while the majority decreased in 2018 (shown as red). DQ performed well in 2017 at 199.4% but underperformed in 2018 t -62.6% *(See Figure 6: All Stocks Analysis for 2017 and Figure 7: All Stocks Analysis for 2018)*.
 
-**Figure 6: All Stock Analysis for 2017**
+**Figure 6. All Stock Analysis for 2017**
 
 ![VBA_Challenge_2017 results](https://user-images.githubusercontent.com/78306719/109702780-4df35d80-7b5a-11eb-87aa-770f0c96b95c.PNG)
 
-**Figure 7: All Stock Analysis for 2018**
+**Figure 7. All Stock Analysis for 2018**
 
 ![VBA Challenge 2018 results](https://user-images.githubusercontent.com/78306719/109702772-48961300-7b5a-11eb-918f-54188ab0f610.PNG)
 
@@ -59,7 +59,7 @@ The analysis shows the return investment percentage for most stocks was high in 
 
 **What are the advantages or disadvantages of refactoring code?** 
 
-One advantage of refactoring code is the ability to expand the data being analyzed. For this project, the first analysis focused on the performance of DQ; However, after refactoring, the analysis expanded to 12 stocks. A second advantage of refactoring is the improvement made to the code thus making it easier for the reader to follow. Refactoring also has disadvantages. One disadvantage is that refactoring is time consuming. For example, the need to expand the analysis to other stocks increased the time to complete this project. Another disadvantage is the need for a budget increase because the project money can end before editing the code (Source: [https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software].
+One advantage of refactoring code is the ability to expand the data being analyzed. For this project, the first analysis focused on the performance of DQ; However, after refactoring, the analysis expanded to 12 stocks. A second advantage of refactoring is the improvement made to the code thus making it easier for the reader to follow. Refactoring also has disadvantages. One disadvantage is that refactoring is time consuming. For example, the need to expand the analysis to other stocks increased the time to complete this project. Another disadvantage is the need for a budget increase because the project money can end before editing the code (See, [https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software], March, 3, 2021.
 
 **How do these pros and cons apply to refactoring the original VBA script?**
 
