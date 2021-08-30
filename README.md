@@ -4,7 +4,7 @@
 
 ### Background
 
-The client asked for assistance in creating a workbook to analyze green energy stock performance data for 2017 and 2018, specifically for DAQO New Energy Corporation (DQ). The workbook allowed the client to analyze the performance of DQ with a click of a button. The client was impressed with the workbook and asked for another workbook to expand his analysis.  
+The client asked for assistance in creating a workbook to analyze green energy stock performance data for 2017 and 2018, specifically for DAQO New Energy Corporation (DQ). The workbook allowed the client to analyze the performance of DQ with a click of a button. The client was impressed with the workbook and asked for another workbook to expand the analysis.  
 
 ### Purpose
 
